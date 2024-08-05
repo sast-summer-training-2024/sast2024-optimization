@@ -19,3 +19,4 @@
 
 ## 课程讲义
 
+[看这里](https://github.com/sast-summer-training-2024/sast2024-optimization/blob/master/slides%20(draft%20version).pdf)
